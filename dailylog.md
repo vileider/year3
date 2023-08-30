@@ -1,0 +1,2 @@
+### 30.08.2023
+On my first day of school, each one of us students introduced ourselves. After a quick introduction, Neil led a short session on what makes a good stand-up. Following that, each of us began discussing what we had been working on, our upcoming plans, and any challenges we were facing.
