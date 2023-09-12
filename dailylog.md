@@ -13,3 +13,9 @@ During the afternoon, I continued my work on the portfolio project. I focused on
 I successfully completed the basic user interface (UI) for the Drystane project. Additionally, I made further enhancements to my private project.
 ### 6.9.2023
 I made good progress today. I successfully implemented a basic script and began debugging events in the school project. For my private portfolio project, I continued to work on styling and added the JSX structure. Additionally, I initiated a reflection related to project time management. 
+### 7.9.2023
+I had a productive day. I completed the ticket and created a Pull Request for my private project. Following that, I continued searching for evidence to support my reflection. In the Drystane project, I successfully connected the script to the UI and managed to pass values from one textbox to another.
+### 8-10.9.2023
+Over the weekend, I dedicated time to improving my application and working on my reflection.
+### 12.09.2023
+During the "Stand Up" meeting, Christopher mentioned that he's capable of providing assistance in languages like C++, C#, and Python, as well as general programming and compiling tasks. He also pointed out that non-trivial data analysis can be performed using Google Colab and Google BigQuery, involving tasks such as uploading CSV files and conducting data analysis.
