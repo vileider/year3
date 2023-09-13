@@ -1,5 +1,44 @@
-Project Title and Overview:" project title portfolio project" " project purpose is to create personalized portfolio website that could be customized by json files, all informarion about profile, educationa nd work hisorty or any other persona ll informaiton are taken from json file, website is based on multiple portfolio websites and main theme is to stick to neemorpism ui style "
-Project objectives: " Project goal is to signifitly increase chance for a job as a software developer by highlighting past work and l;earned skills in a finished prpojects"
-Scope of work: " 1st phase project scope is  to create project frame and populate it with date based in json file 2nd phase is to create tablet and mobile version of the web 3r phazse is to create piplenie that will deploy it on hosting website with priovate domain  Project has time constrains for alpha version because it mus be working asap to show portfolio potential for any employer. project has budget constrains as it should be only sped on vps and domain"
-Stakeholders:" Main stakholder is Me Bogdan Todorow my role i s to keep the project floow going and improving effective project build over the time. My role is to stick all wark to poroject objective and its phases. Write project comeponents and style GUI. Project will have perfiferial stakeholder that might increase it involment in project but it not taken as a critical factor in project time scope. On of external stakehole is Szymon Basiul that makes his first steps in software development, his resposiblities is to imporove ui overal look by commiting work related to styling and small coding tasks. his sill in uderstanding what readable and intuitive user interface is apreciaited"
-Deliverables: "project dliverables for the first phaze: whole ui must be done in noumorphism style,  every task must be written on jira board with description, ticket taken by project participant must be followed by brach creation with the same name for example "T-14", work done in a created brache must be strictly related to task. Task are populated during planning or by asynchornous discusion on project chat channel. delivering task starts by moving jira ticekt to "test"  column and creating pull request, after succesful Pr acceptance. "
+# Project Title and Purpose:
+ The project is titled "Portfolio Project" and aims to create a customizable portfolio website populated with data from JSON files.
+
+# Project Objectives:
+ The primary objective is to enhance the chances of securing a software developer job by showcasing past work and skills through completed projects.
+
+# Scope of Work:
+ The project is divided into three phases. Phase 1 focuses on framework setup and data population. Phase 2 involves creating tablet and mobile versions, and Phase 3 includes CI/CD pipeline setup and deployment.
+
+# Time Constraints:
+ The alpha version must be functional as soon as possible to demonstrate the portfolio's potential to potential employers.
+
+# Budget Constraints:
+ The project has budget constraints and will allocate funds only for VPS hosting and domain expenses.
+
+# Stakeholders:
+ The primary stakeholder is Bogdan Todorow, responsible for project oversight, alignment with objectives, and GUI styling. Peripheral stakeholders, like Szymon Basiul, may contribute to UI improvements.
+
+# Deliverables for Phase 1:
+ Phase 1 deliverables include achieving the Neumorphism UI style, following UI patterns closely, task documentation on Jira, branch creation, and functional buttons, links, and downloadable CV.
+
+## Phases 2 and 3:
+ Phases 2 and 3 will focus on code refinement, adding mobile versions, CI/CD pipeline implementation, server deployment, and further code refinement and testing.
+
+# Timeline:
+ Phase 2 aims to be completed by the end of September 2023, with timelines for Phases 2 and 3 to be estimated after Phase 1.
+
+# Budget:
+ Participants are contributing voluntarily. Potential costs include £20 per month for VPS hosting during Phase 3 and an estimated £10 for domain expenses.
+
+# Risk Assessment:
+ A potential risk is project delays if only one person is assigned. Delays could be up to 15 days after Phase 1 deployment, and Phase 2 would resume after this delay.
+
+# Customization with JSON:
+ The website's content, including profile, education, and work history, will be customized through JSON files.
+
+# UI Design Inspiration:
+ The project draws inspiration from multiple portfolio websites and prioritizes the Neumorphism UI style.
+
+# Peripheral Stakeholder Role:
+ Peripheral stakeholders, like Szymon Basiul, contribute to UI improvements by enhancing overall UI appearance.
+
+# CI/CD Implementation:
+ Phase 3 involves the implementation of a CI/CD pipeline for automated deployment and continuous code refinement and testing.
