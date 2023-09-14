@@ -8,7 +8,7 @@
  The project is divided into three phases. Phase 1 focuses on framework setup and data population. Phase 2 involves creating tablet and mobile versions, and Phase 3 includes CI/CD pipeline setup and deployment.
 
 # Time Constraints:
- The alpha version must be functional as soon as possible to demonstrate the portfolio's potential to potential employers.
+ The alpha version must become functional as soon as possible to demonstrate the portfolio's potential to prospective employers
 
 # Budget Constraints:
  The project has budget constraints and will allocate funds only for VPS hosting and domain expenses.
@@ -17,7 +17,11 @@
  The primary stakeholder is Bogdan Todorow, responsible for project oversight, alignment with objectives, and GUI styling. Peripheral stakeholders, like Szymon Basiul, may contribute to UI improvements.
 
 # Deliverables for Phase 1:
- Phase 1 deliverables include achieving the Neumorphism UI style, following UI patterns closely, task documentation on Jira, branch creation, and functional buttons, links, and downloadable CV.
+ * Achieve the Neumorphism UI style.
+ * Follow UI patterns closely.
+ * Document tasks on Jira.
+ * Create branches.
+ * Implement functional buttons, links, and a downloadable CV.
 
 ## Phases 2 and 3:
  Phases 2 and 3 will focus on code refinement, adding mobile versions, CI/CD pipeline implementation, server deployment, and further code refinement and testing.
@@ -26,7 +30,7 @@
  Phase 2 aims to be completed by the end of September 2023, with timelines for Phases 2 and 3 to be estimated after Phase 1.
 
 # Budget:
- Participants are contributing voluntarily. Potential costs include £20 per month for VPS hosting during Phase 3 and an estimated £10 for domain expenses.
+ Participants are contributing voluntarily, potential costs include £20 per month for VPS hosting during Phase 3 and an estimated £10 for domain expenses.
 
 # Risk Assessment:
  A potential risk is project delays if only one person is assigned. Delays could be up to 15 days after Phase 1 deployment, and Phase 2 would resume after this delay.
