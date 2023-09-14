@@ -19,3 +19,9 @@ I had a productive day. I completed the ticket and created a Pull Request for my
 Over the weekend, I dedicated time to improving my application and working on my reflection.
 ### 12.09.2023
 During the "Stand Up" meeting, Christopher mentioned that he's capable of providing assistance in languages like C++, C#, and Python, as well as general programming and compiling tasks. He also pointed out that non-trivial data analysis can be performed using Google Colab and Google BigQuery, involving tasks such as uploading CSV files and conducting data analysis.
+# 13.9.2023
+Today, I managed to finish the project specification, but I would like to check if it is made in the proper way, so I added a ticket on the Jira board.
+#
+After two hours of focused effort, I successfully completed the application form for the Research Assistant position at Moray UHI and I'm excited about the opportunity.
+### 14.9.2023
+I successfully synchronized my repositories on GitHub and Bitbucket. Now, any changes I push to GitHub will automatically be mirrored on Bitbucket. This streamlined process will save me time and ensure that my work is consistently backed up.
