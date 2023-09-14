@@ -24,4 +24,4 @@ Today, I managed to finish the project specification, but I would like to check 
 #
 After two hours of focused effort, I successfully completed the application form for the Research Assistant position at Moray UHI and I'm excited about the opportunity.
 ### 14.9.2023
-I successfully synchronized my repositories on GitHub and Bitbucket. Now, any changes I push to GitHub will automatically be mirrored on Bitbucket. This streamlined process will save me time and ensure that my work is consistently backed up.
+I successfully synchronized my repositories on GitHub and Bitbucket. Now, any changes I push to GitHub will automatically be mirrored on Bitbucket. This streamlined process will save me time and ensure that my work is consistently backed up..
