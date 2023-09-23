@@ -27,3 +27,5 @@ After two hours of focused effort, I successfully completed the application form
 I successfully synchronized my repositories on GitHub and Bitbucket. Now, any changes I push to GitHub will automatically be mirrored on Bitbucket. This streamlined process will save me time and ensure that my work is consistently backed up.
 ### 15-17.9.2023
 I have found 2 APIs for data analysis. I just need to find one more. I sent 1 pull request for my private project, and I managed to resolve merging conflicts during Sunday's meeting.
+### 18-20.9.2023
+In the last couple of days, I have been working on a school project related to reflection. I changed my concept, and I am now receiving data from a CSV file and displaying it on the screen. As for my portfolio project, I am currently focused on displaying data that describes past projects and presenting it in the right format within JSX components.

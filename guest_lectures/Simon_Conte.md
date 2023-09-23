@@ -1,0 +1,3 @@
+# 20.09.2023 -Simon Conte role of a Software Developer
+
+Simon talked extensively about what it's like to be a software developer at Adobe, focusing on working with branches and typical programmer tasks. During the lecture, I asked him how to handle stakeholders when I want to extend a feature beyond its deadline. He suggested describing how it could impact code efficiency or benefit other team members. I followed up with another question about communicating the same to non-technical stakeholders. He mentioned that emphasizing how code efficiency could save the company money might convince those stakeholders.
