@@ -29,3 +29,7 @@ I successfully synchronized my repositories on GitHub and Bitbucket. Now, any ch
 I have found 2 APIs for data analysis. I just need to find one more. I sent 1 pull request for my private project, and I managed to resolve merging conflicts during Sunday's meeting.
 ### 18-20.9.2023
 In the last couple of days, I have been working on a school project related to reflection. I changed my concept, and I am now receiving data from a CSV file and displaying it on the screen. As for my portfolio project, I am currently focused on displaying data that describes past projects and presenting it in the right format within JSX components.
+### 21-27.9.2023 
+"Over the past week, I've been diligently working on my non-trivial data project, and I successfully managed to create a proof of concept. I displayed two different datasets in the form of charts and could summarize what is presented on the screen.
+#
+In regard to my private project, I conducted a significant refactor and reorganized the catalog structure. On top of that, I implemented troubleshooting functionality. Whenever the application can't read data from the user, it will use default data, and the same goes for images. If the app cannot find images for the project, it will utilize default ones. Currently, I'm facing a semi-difficult rebase due to all these changes.
