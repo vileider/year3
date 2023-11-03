@@ -41,3 +41,11 @@ Over the last week, I made significant progress in deploying my portfolio app. I
 Last week, I led my team in moving forward to achieve all the planned tasks. I resolved team members' issues in voice chats and created pair programming sessions for the most difficult tasks. Additionally, I updated my portfolio project by finishing tickets one by one, and I completed my reflection on security outcome.
 ### 22.10 - 2.11.2023
 Over the last week, I've actively participated in numerous standups and guest lecture sessions. While I had a brief pause in the school project, I managed to resolve the issue by taking over the ticket and moving it to testing. Additionally, I applied for over 20 developer positions and had one interview along with two video recording interviews. Following a discussion with Karen today, I've decided to maintain daily logs consistently and commit to publishing my work every day.
+### 03.10.2023
+I discovered an issue in my pipeline: it doesn't pull the new updates from the repository, and after running the pipeline, it doesn't display the correct data. I decided to create a ticket to investigate this.
+I communicated with other team members on our Slack channel and I'm looking forward to the 1 pm standup.
+I attended the Dev Summit event, and I was highly interested in how developers are striving to implement AI ethics.
+I applied for 10 software engineer positions. Following a conversation with HR today, I progressed to another recruiting stage and received an invitation for an on-site meeting.
+I had a daily standup meeting with just one team member, where we resolved concerns about the task and the ticket. I suggested reading the ticket description for a better understanding of the task. If, after reading the task description, it remains confusing, I offered my assistance with any issues.
+I remined myself how to create epics and story points.
+https://www.youtube.com/watch?v=ogV2r9579WI
