@@ -1,12 +1,17 @@
-user stories- describes what user wants, simple product describtion, describe requiremnt 
-what
+user stories- describes what user wants, simple product describtion, describe requiremnts, do not5 go into details
+U.S. help wih creatign hight quality content
+- eases colabiration with eam members
+- helps understand users better
+- imporve transparency
+- reduces risks
 example:
-Title
-unique id
-estimate-work required
-describtion: As a user I want to[action] so that [banefut] when I[action] this happens
-task list
+* Title
+* unique id
+* estimate-work required
+* describtion: As a user I want to[action] so that [banefut] when I[action] this happens
+* task list
 
+Initiatives: have multiple epics
 Epic: oversised user stories
 Structure of the user storie:
 Role -Who
