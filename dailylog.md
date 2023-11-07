@@ -49,10 +49,14 @@ I applied for 10 software engineer positions. Following a conversation with HR t
 I had a daily standup meeting with just one team member, where we resolved concerns about the task and the ticket. I suggested reading the ticket description for a better understanding of the task. If, after reading the task description, it remains confusing, I offered my assistance with any issues.
 I remined myself how to create epics and story points.
 https://www.youtube.com/watch?v=ogV2r9579WI
-### 03.11.2023
+### 06.11.2023
 I earned two certificates for learning c# and clean code course.
 I watched https://www.youtube.com/watch?v=8IaMgQkzhWM&t=3205s
 about solid Principles
 I attended to all team sprint review and ai learned that story points are more
 important than I thought. It is a good way to communicate betwwen non technical stake holders
 and developers. I will not do much today because I do not feel to well.
+### 07.11.2023
+I had a 2,5 h interview at life scan
+I add comment to PR at school project
+I resolved issue with team member during pair programming
