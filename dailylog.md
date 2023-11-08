@@ -60,3 +60,5 @@ and developers. I will not do much today because I do not feel to well.
 I had a 2,5 h interview at life scan
 I add comment to PR at school project
 I resolved issue with team member during pair programming
+### 08.11.2023
+I reviewed T-42 for a school project. I also began another reflection about business processes. I contributed to a school project and reviewed multiple PRs. Additionally, I attended a guest lecture about prototypes and wrote some notes.
