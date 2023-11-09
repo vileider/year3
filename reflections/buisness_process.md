@@ -9,6 +9,10 @@ I should also explain how to document and understand a business process using di
 I will try to  evaluate the strengths and weaknesses of using business processes for industrial software design. I should consider the benefits and challenges of aligning the software development process with the business goals, requirements, and expectations
 I at the end I will ummarize my main findings and insights, and suggesting some possible actions or improvements for the future.
 
+From the villanovau i have learned that business process is a standardized method a company uses to accomplish routine activities. It keeps your business on track and organized.
+https://www.villanovau.com/articles/bpm/what-is-a-business-process/
+The Article teaches that business process depends from many elements invloved as  tasks, systems, employees, workflows, and data. A business process can also be classified into core, support, and management processes, based on the value they create for the customers and the company.
+
 I red about busness process documentation and I learned that it is the action of recording the steps involved in busness process. https://www.process.st/business-process-documentation/
 I is important for running a business because it is improving employee training and esures there are regulations and standars. It supports business growth and increases transparency and clarirty
 theere are many templates available for busines documentation that speeds up the process
