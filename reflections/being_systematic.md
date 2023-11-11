@@ -3,7 +3,6 @@
 ## Industrial software design
 # Follow a systematic methodology for initiating, planning, executing, controlling, and closing a technology solutions project.
 
-###
 In this reflection, I'd like to begin by describing what a systematic methodology in a technology project entails. I'll outline how to follow such a methodology from inception to completion, while sharing my own experiences in adhering to technology solutions methodologies. I'll also discuss the mistakes I've made and what has worked well for me.
 
 A systematic methodology for a technology solutions project is a structured approach to problem-solving.(Team Asana, 2023) It involves defining the problem clearly, analyzing its causes and effects rigorously, and following a structured process to design and implement solutions.[3.7.1.1] This process encompasses several phases, including planning, design, development, implementation, and evaluation. Additionally, it considers various factors such as resources, tools, stakeholders, users, risks, and quality standards. The choice of methodology, whether Agile, Waterfall, or Spiral, depends on the nature and complexity of the problem.
@@ -17,8 +16,6 @@ I've often wondered how to define the project's closure, especially when there's
 Initiating the security-outcome student project involved a design thinking meeting and detailed planning.(Team, Design Thinking 2023 B) We created a project specification to ensure alignment with project principles, benefiting both team members and newcomers. Daily standup meetings and effective communication via Slack helped resolve issues and merge conflicts promptly. However, after two weeks, we encountered increased misunderstandings. Realizing I was leading a team with some beginners in collaborative teamwork, I altered the frequency of standups to once per day, divided tasks into smaller, more detailed ones, and expanded task descriptions. These actions resulted in improved Jira board progress and reduced misunderstandings, demonstrating the importance of regular daily standup meetings for project control and adherence to technology solution methodologies.[3.7.1.1]
 
 All this systematic thinking wouldn't be effective without a daily routine. I've divided my day into three parts and strive to adhere to this schedule daily. I start with working on school projects and daily team standups, moving at least one task to testing and issue resolution. Later, I research learning outcomes, read articles, and take notes. In the afternoon, I work on my portfolio project, typically completing four to five tasks each week. At night, I search for job opportunities. Occasionally, unforeseen events disrupt my daily routine, or unresolved issues consume more time than anticipated. During such times, I get discouraged but always restart my commitment to school projects, evidence compilation, and private projects. I firmly believe that systematic commitment to daily tasks is the key to success.[3.7.1.1]
-
-###
 
 Terada, Y. (2018) Research-tested benefits of breaks, Edutopia. Available at: https://www.edutopia.org/article/research-tested-benefits-breaks (Accessed: 03 November 2023). 
 
