@@ -67,3 +67,8 @@ Today, from the morning, I continued reviewing Pull Requests related to secured 
 Simultaneously, I was learning about business processes from https://www.villanovau.com/articles/bpm/what-is-a-business-process/ to write my reflection.
 ### 10.11.2023
 After a quick conversation on the Slack channel, a team member informed me that there is no table for unsecured routes, but there is a population database script. I found the script on an unmerged branch. After investigating, I noticed that the script did not have the necessary files to run it. I will need to fix the entire branch and make it executable. I will try to find time to do this in the evening. I received an email from Aviva suggesting that I move to the next stage of the recruiting process. It was a programming challenge that took me 90 minutes plus 45 minutes of preparation. I managed to finish the reflection on business processes, and I am surprised that it is divided into so many parts that are really dependent on each other.
+### 13.11.2023
+I successfully added the package.json file and installed all dependencies for the database populator. I discovered that I can find database credentials on the Outcome Team's Slack channel.
+I initiated a reflection on software quality standards.
+Additionally, I watched a video about PostgreSQL from Fireship.
+I also made some small progress on my portfolio website.
