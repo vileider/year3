@@ -76,3 +76,5 @@ I also made some small progress on my portfolio website.
 In the morning, I faced challenges with the database populator as the branch was multiple commits behind. To resolve this, I organized a meeting with a team member and explained how working on branches functions. I clarified the usage of package.json and shared best practices and solutions related to the project. I demonstrated how to add scripts to an existing project, which successfully fixed the issue related to the ticket, and a pull request was made appropriately. Reflecting on this, I realized that considering project participants' skills when starting a new project would save time and prevent the need to explain basic topics repeatedly.
 I wrote a significant portion of the reflection about standards. I learned that various ISO standards guide me to deliver better quality products.
 On the technical side, I updated the Twitter logo on my portfolio website, changing it to 'X'. I also added styles and a bottom-line section on the ABOUT ME subpage.
+### 15.11.2023
+today was not a good day for me, I just managed to move forward my reflection little bit. 
