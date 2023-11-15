@@ -32,9 +32,17 @@ It has eight things that I can look at to judge the system or software quality. 
 
 These standards are examples of how ISO/IEC/IEEE develops and harmonizes international standards for systems and software engineering.I learned that they are providing a common framework and terminology for systems and software engineering, and facilitate communication, collaboration, and integration among different stakeholders, organizations, and domains.At the top of that standards also help to ensure the quality, efficiency, and reliability of systems and software products and services.
 # quality planning
-
+i have found  software quality assurance plan a a document that describes how the quality assurance processes will be implemented for a specific software project. 
+https://www.turing.com/resources/software-quality-assurance-plan
+It helps to find and fix mistakes in the software before they cause trouble. It also helps to make the software better and to make the customers satisfied. A software quality assurance plan explains how to make sure the software is good and works well, by describing the purpose and goals of the software, the rules and guidelines for making the software, the ways to check and test the software, the methods to report and fix any problems or bugs, and the tools and techniques for quality assurance.
 # quality standards tools
-
+Software quality assurance tools are software applications or libraries that help to ensure the quality and reliability of software products. 
+https://theqalead.com/tools/best-software-testing-tools/
+https://www.functionize.com/automated-testing/qa-testing-tools
+https://clickup.com/blog/best-modern-qa-testing-tools/
+They can be used for Test automation,and the tool for it enables the execution of automated tests on software applications, without requiring human intervention. They can increase test coverage, and detect defects faster. Some examples of test automation tools are Selenium, Testim, and TestProject.
+Performance testing tools measure the speed, scalability, and stability of software applications under different conditions. They can help to identify performance bottlenecks, optimize resource utilization, and ensure customer satisfaction. Some examples of performance testing tools are LoadNinja, LoadView, and JMeter.
+To fulfill the requirements of the ISO/IEC 9126, ISO/IEC 5055, and ISO/IEC/IEEE 29148:2018 standards, software quality assurance tools should Measure the internal structure of a software product, Detect and count violations of good architectural and coding practices in the source code or upport the software requirements engineering process. I will try to pick a tool that i can apply to  my project.
 # standards i use
 
 # summary
