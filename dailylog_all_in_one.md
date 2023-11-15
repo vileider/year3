@@ -77,4 +77,4 @@ In the morning, I faced challenges with the database populator as the branch was
 I wrote a significant portion of the reflection about standards. I learned that various ISO standards guide me to deliver better quality products.
 On the technical side, I updated the Twitter logo on my portfolio website, changing it to 'X'. I also added styles and a bottom-line section on the ABOUT ME subpage.
 ### 15.11.2023
-today was not a good day for me, I just managed to move forward my reflection little bit. 
+Today was not a good day for me, I just managed to move forward my reflection little bit and create two small modules for my portfolio.
