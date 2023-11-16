@@ -77,4 +77,8 @@ In the morning, I faced challenges with the database populator as the branch was
 I wrote a significant portion of the reflection about standards. I learned that various ISO standards guide me to deliver better quality products.
 On the technical side, I updated the Twitter logo on my portfolio website, changing it to 'X'. I also added styles and a bottom-line section on the ABOUT ME subpage.
 ### 15.11.2023
-Today was not a good day for me, I just managed to move forward my reflection little bit and create two small modules for my portfolio.
+Today was not a good day for me, I just managed to chceck one pull request, move forward my reflection little bit and create two small modules for my portfolio.
+### 16.11.2023
+I started the day by reviewing a pull request, and I approved it. I didn't find any major problems with the database populator. After that, I continued with my ticket 45, where I successfully returned a GET request from an unsecured database. I also noticed that the assumptions for GET requests in unsecured and secured databases differ. I pointed this out in the security-outcome channel and created a pull request for my task, which was approved within a couple of minutes.
+I continued my reflection based on the learning outcomes of the quality standards subject. I found a website that allows me to test my website against various standards, and, most importantly, it's free. I summarized the results and found it interesting that my website meets high standards. I am happy that I could write decent code.
+I almost finished the 'About Me' section. I think I will complete it tomorrow; it just needs a couple of small bits.
