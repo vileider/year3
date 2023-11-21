@@ -82,3 +82,12 @@ Today was not a good day for me, I just managed to chceck one pull request, move
 I started the day by reviewing a pull request, and I approved it. I didn't find any major problems with the database populator. After that, I continued with my ticket 45, where I successfully returned a GET request from an unsecured database. I also noticed that the assumptions for GET requests in unsecured and secured databases differ. I pointed this out in the security-outcome channel and created a pull request for my task, which was approved within a couple of minutes.
 I continued my reflection based on the learning outcomes of the quality standards subject. I found a website that allows me to test my website against various standards, and, most importantly, it's free. I summarized the results and found it interesting that my website meets high standards. I am happy that I could write decent code.
 I almost finished the 'About Me' section. I think I will complete it tomorrow; it just needs a couple of small bits.
+### 17.11.2023
+I was actively discussing issues and new features in the Security Outcome channel. I completed a subpage for my portfolio project. I made significant progress on my Learning Outcome Reflection; it just needs referencing, and I will be ready to send it for review. 
+### 20.11.2023
+I had a job interview with a research bank. I didn't respond to the HR questions as well as I had hoped.
+I participated in an "all hands" meeting where all teams had to present their progress. As usual, I felt penalized for putting effort into college collaboration projects.
+I completed a ticket for my portfolio project, updating the new Twitter logo with an 'X'. 
+### 21.11.2023
+Today, since the morning, I was trying to fix the React app created for the Security Outcome project. Although the frontend wasn't included in the project specification, it was developed by one of the participants. I had to search through different branches and gather fragments of code to consolidate them. In the end, I discovered multiple 'node_modules', and the code did not run even with the instructions provided at https://copyprogramming.com/howto/run-create-react-app-from-sub-folder.
+I believe the best solution is to separate the React app into its own folder. Once the build is created, I can run it from the server in the main repository. On another note, I added references and corrected grammar and spelling mistakes in my reflection.
