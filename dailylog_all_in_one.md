@@ -113,3 +113,14 @@ In the morning, I had a meeting with Karen and Macheshi, who provided valuable f
 Macheshi introduced the concept of a "change management plan," which I need to delve into for a deeper understanding. Later, during the portfolio project presentation, technical issues unexpectedly arose, preventing me from showcasing the entire project. Amid the presentation, I discovered that my website was down.
 #
 Subsequently, I collaborated with my friend Jason to fix the pipelines. We added a Docker image to the pipeline, and through this process, I learned that the issue with my website was caused by a deleted SSH certificate key. It seems the keys were nested in the wrong folder previously. This time, we ensured the keys were in the correct location. The website is now up and running, and I'm hopeful that the issue won't recur.
+### 4.12.2023
+Today, I was working on the game project from the beginning of the day. Python is not easy, especially when it comes to classes. I downloaded my most recent presentation and edited it in a video editor. I also started a reflection related to the presentation.
+### 5.12.2023
+I have sent a video to teachers and college friends, asking for feedback. I added some notes to the reflection about the presentation. For the whole day, I was working with a friend on a solution for displaying tiles on the screen in our Python game.
+https://www.youtube.com/watch?v=u7LPRqrzry8&t=1564s
+### 6.12.2023
+For the whole day, the game project team and I were trying to create a base engine for the game. We started with the first concepts and discussed the pros and cons. To improve my Python knowledge, I started watching Python tutorials.
+https://www.youtube.com/watch?v=kqtD5dpn9C8&t=1352s
+### 7.12.2023
+I started my day by learning Python through a 12-hour course: https://www.youtube.com/watch?v=XKHEtdqhLK8
+I moved some tickets on the linear board and reviewed pull requests from other participants. I had an asynchronous stand-up, and we agreed to have a retrospective and planning session the next day at 13:00. In the afternoon, I worked on my reflection on the presentation.
