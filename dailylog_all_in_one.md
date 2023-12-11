@@ -124,3 +124,8 @@ https://www.youtube.com/watch?v=kqtD5dpn9C8&t=1352s
 ### 7.12.2023
 I started my day by learning Python through a 12-hour course: https://www.youtube.com/watch?v=XKHEtdqhLK8
 I moved some tickets on the linear board and reviewed pull requests from other participants. I had an asynchronous stand-up, and we agreed to have a retrospective and planning session the next day at 13:00. In the afternoon, I worked on my reflection on the presentation.
+### 8.12.2023
+I focused on reflecting on my presentation and made a significant update to my reflection related to the presentation.
+The entire Friday and weekend, I was learning Python from https://www.youtube.com/watch?v=AY9MnQ4x3zk&t=7684s and https://www.youtube.com/watch?v=_vr5faCXFo8&t=2535s. I found that I have trouble understanding classes in Python. I will aim to learn that in the next couple of days.
+### 11.12.2023
+I started by learning classes in Python and adding some parts of the interface to the game project. I also finished the reflection. In the afternoon, I continued the reflection on development methodologies.
