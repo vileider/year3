@@ -1,0 +1,1 @@
+I discussed modern programming languages and how I can try them out. We also had a long conversation about Kubernetes.
