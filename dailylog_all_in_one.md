@@ -129,3 +129,5 @@ I focused on reflecting on my presentation and made a significant update to my r
 The entire Friday and weekend, I was learning Python from https://www.youtube.com/watch?v=AY9MnQ4x3zk&t=7684s and https://www.youtube.com/watch?v=_vr5faCXFo8&t=2535s. I found that I have trouble understanding classes in Python. I will aim to learn that in the next couple of days.
 ### 11.12.2023
 I started by learning classes in Python and adding some parts of the interface to the game project. I also finished the reflection. In the afternoon, I continued the reflection on development methodologies.
+### 22.1.2024
+The initial meeting of the second semester went quickly and was understandable. In the 3rd semester, we received a task to create a report from the 1st semester and plan for the second. I started LO 3722 and created a plan on how to approach it. I took and finished another ticket for the farming game project. During the meeting with Neill at 2, we discussed our approach for the next semester and how we understand the learning outcomes. After 4, we met with Charles, and he gave us some hints on how we can improve our code.
