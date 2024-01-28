@@ -131,3 +131,26 @@ The entire Friday and weekend, I was learning Python from https://www.youtube.co
 I started by learning classes in Python and adding some parts of the interface to the game project. I also finished the reflection. In the afternoon, I continued the reflection on development methodologies.
 ### 22.1.2024
 The initial meeting of the second semester went quickly and was understandable. In the 3rd semester, we received a task to create a report from the 1st semester and plan for the second. I started LO 3722 and created a plan on how to approach it. I took and finished another ticket for the farming game project. During the meeting with Neill at 2, we discussed our approach for the next semester and how we understand the learning outcomes. After 4, we met with Charles, and he gave us some hints on how we can improve our code.
+### 23.1.2024
+STAND UP:
+Started working on the current project's outcome.
+Completed a ticket in the project I am currently working on.
+I met up with Charles and Gracjan. We noted a lot of advice from him. Today, I will try to put his advice into practice during the planning session. After that, I will aim to complete the current outcome I am working on in half the time.
+AFTER DAILY STANDUP WITH STUDENTS, I WENT TO A PLANNING SESSION, AND WE PLANNED NEXT TASKS FOR THE NEXT 2 DAYS.
+I had a refactoring session that took too long.
+I think it should be organized better. 
+### 24.1.2024
+STAND UP: Today, I aim to complete the refactoring task and continue working on the learning outcome I planned to address yesterday. If I have additional time, I'll pick up another ticket in the project.
+I started refactoring, and after 15 minutes of my team member trying to figure out what went wrong, I decided to erase the branch and start the refactoring process systematically, addressing each aspect one by one.
+I realize the importance of being more persuasive when suggesting best practices. Even seemingly simple tasks like refactoring and organizing the catalog structure should be approached systematically and with a well-thought-out plan.
+In my progress reflection, I acknowledge that while I have made progress in refactoring the code, there is still some work that needs to be done.
+### 25.1.2024
+Stand up:
+I erased previous refactoring branch and started from the beggining, systematicaly fixing class by class following solid principles.
+I did some progress in my reflection.
+today i hope to finish refactor and start another reflection because i need to wait for my mentoring session to finish prevous one
+We moved forward in refactor and we managed to  separate methods in classes,
+I strted a new refelction about the research
+### 26.1.2024
+I continued the refactoring process, and during the all-hands meeting, I presented the project I am currently working on.
+Over the weekend, I dedicated time to working on reflections and further refactoring.
