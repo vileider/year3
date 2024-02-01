@@ -15,7 +15,7 @@ What not to do: Give some bland explanation based on what you think you know.  F
 ## chceck how the company structure works
 from the https://www.forbes.com/advisor/business/organizational-structure/ i lerned that thewre can be multiple different organization structure
 by Christine Organ and Cassie Bottorff:
-The delineation of organizational structures is integral to understanding the varied frameworks employed by businesses. Below, I elucidate distinct organizational paradigms:
+The delineation of organizational structures is integral to understanding the varied frameworks employed by businesses. Below, I listed organizational paradigms:
 
 * Functional Structure:
 This configuration entails the segmentation of the organization into specialized departments, such as marketing, finance, and operations. Primarily suited for smaller enterprises, this model promotes clarity and focus.
@@ -38,7 +38,8 @@ These organizational frameworks provide a nuanced perspective on the diverse str
 To expand my knowldge and to learn something new: https://www.indeed.com/career-advice/career-development/functions-of-businesses
 Business functions are the activities that a company performs to create value for its customers, stakeholders, and employees. Business functions can be divided into two categories: core functions and support functions. Core functions are the main activities that generate income and deliver the company’s products or services, such as manufacturing, sales, marketing, etc. Support functions are the activities that help the core functions run smoothly and efficiently, such as accounting, human resources, IT, etc. Different types of businesses may have different types of functions, depending on their goals, size, culture, and industry
 # what is the reole of senior leadership
-
+I asked my mentor Francesco Burato about his thoughts about the role of senior leadership.
+He Explained that structure and success of an organization depend on the effective allocation of human resources. In large organizations, leadership roles vary in proximity to the CEO, with key positions such as COO, CFO, and CTO playing vital roles. The Board of Directors guides the organization, and the CEO sets objectives aligned with officers' responsibilities. Engineering managers and senior engineers allocate resources, considering factors like security, technology, features, and bug fixes. The hierarchy's depth adapts to organizational needs, emphasizing the importance of resource distribution for organizational growth and success. Software engineers play a crucial role in determining how to allocate human resources, with engineering management ensuring contributions align with overall goals. The organization's size and resource allocation significantly influence its structure.
 # whate I have learnedf during my research
 
 # how i would apply this knowledege and my plan for the future
