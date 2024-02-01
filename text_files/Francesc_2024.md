@@ -1,41 +1,47 @@
-mathematical models to generate the map
-noisee give more natural looks of the maps
+# 30.1.2024
+## Francesco Burato
+### Mentoring Session
+Helps related to game I am currently workin on:
+To generate maps with a more natural appearance, mathematical models often incorporate various types of noise. Noise in this context refers to random variations or irregularities that simulate natural phenomena. Two commonly used types of noise are Perlin noise and Simplex noise.
 
+Perlin Noise:
+Developed by Ken Perlin, Perlin noise is a gradient noise function widely used in computer graphics and procedural generation. It creates smooth, coherent patterns that resemble natural features.
+By adjusting parameters such as frequency and amplitude, you can control the scale and intensity of the generated patterns.
 
-senior leader shio as a functionin large organization
-trhere are differedn layer
-primary gola is to determining what is the next step how to grow the businesss
-it depends from haf far you are from ceo
+Simplex Noise:
+An improvement upon Perlin noise, Simplex noise, developed by Ken Perlin as well, offers similar properties but with better performance in higher dimensions.
+Simplex noise has a more isotropic characteristic, meaning it maintains consistent behavior regardless of the direction of measurement.
+These noise functions can be applied in various ways, such as:
 
-close tyo has to check all th epotential fast forward where company is going
-maximise the reveniue for the share holders
-the ceao defines objective for organizations
-chef operating ooffices
-financial officeer
-in software the is a cto cheef technical officeer
-in deifferned companies there ar different officers that take care of differend deparatament
-borad of director appoint the directors to dive into certain direction
-ceao cretae objectives for their officers that should aligned.
-senrio ledarship divined down to decrease managble complexity of tasks
-everything from team leader to top management strucure looks the same
+Terrain Generation:
+Using noise functions to model elevation, creating realistic mountain ranges, valleys, and plains.
 
-at the core lvel engeenering manager is for allocating resources for paricular people to reach his objective
-he hesto alocate time and resources. the haave pool of .
-the team of 5 engeeniers it means that i have total of 200 hours. the director tells whoich teams is repsonsible for wchoch tasks and tell if time scope is a yer month or a week. 
-engineering manager consider or the factors: 
-security vulerability - will it tak a lot of time to solve te issue
-implement tech stack -
-adding feature - 
-fixing a bug - 
-all abouyer distributing resurces
-software eneigne decides how to alocate humana resources
-engenerre managmen
-they will have to they have the responisblity figuring out how thei contribution can improve
-the need to balanced thumana resurces
-all the hiera4rhy can be as deeep or as shallow as the org requires
-every senior level manager beetween ceo and software anginger  is addewd as the organisati0on gropw
-it is caused by the idea that something could be avoided if the vanacy for that persion would be created
+Vegetation Distribution:
+Applying noise to determine the distribution of vegetation, forests, or other natural features across the map.
+
+River and Stream Paths:
+Employing noise functions to guide the paths of rivers and streams, mimicking the randomness found in nature.
+
+Coastline Shapes:
+Utilizing noise to define the irregular shapes of coastlines, producing more natural and organic boundaries.
 
 
 the amount of human resources determine organization
+In a large organization, senior leadership functions across different layers. The primary goal is to determine the next steps for growing the business, with the extent of involvement depending on the proximity to the CEO.
 
+Those closer to the CEO assess potential future directions, ensuring alignment with objectives set by the CEO to maximize revenue for shareholders. The Chief Operating Officer (COO), Chief Financial Officer (CFO), and in software, the Chief Technical Officer (CTO) are key roles. Different officers oversee various departments based on the company's structure.
+
+The Board of Directors appoints directors to guide the organization, and the CEO establishes objectives aligned with the officers' responsibilities. This hierarchical structure, from team leaders to top management, is consistent.
+
+At the core, an engineering manager allocates resources to individuals, considering factors like security vulnerabilities, implementing technology stacks, adding features, and fixing bugs. They distribute resources among teams and decide on time scopes for tasks.
+
+Senior engineers, in turn, decide how to allocate human resources, and engineering management ensures contributions align with organizational goals.
+An engineering manager considers various factors when allocating resources:
+* Security Vulnerability: Assessing the time required to resolve the issue and enhance security.
+* Tech Stack Implementation: Deciding on the appropriate technology stack for the project.
+* Feature Addition: Evaluating the feasibility and impact of adding new features.
+* Bug Fixing: Addressing and resolving software bugs efficiently.
+
+The hierarchy's depth depends on organizational needs, with additional senior managers added as the organization grows, often due to the necessity to fill specific roles.
+It's all about resource distribution. Software engineers, on the other hand, determine how to allocate human resources. Engineering management holds the responsibility of figuring out how their contributions can enhance the overall project. Balancing human resources becomes a crucial aspect of their role. 
+The organization's size and the allocation of human resources are crucial factors in determining its structure.
