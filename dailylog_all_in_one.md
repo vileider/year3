@@ -154,3 +154,12 @@ I strted a new refelction about the research
 ### 26.1.2024
 I continued the refactoring process, and during the all-hands meeting, I presented the project I am currently working on.
 Over the weekend, I dedicated time to working on reflections and further refactoring.
+### 29.1.2024
+Throughout the entire day, I focused on a game project. I took a ticket related to UI enhancements.
+During breaks from my primary task, I assisted a team member with their assignment. With my support, he successfully completed his ticket on the same day. 
+### 30.1.2024
+I successfully completed the UI-related ticket. During a meeting with Neil, he expressed concerns about the absence of a report, emphasizing its potential impact on organizing my work and preparing for the upcoming semester. He recommended delving into interfaces for classes, prompting me to initiate research in the evening. I referred to this helpful resource: Real Python - Python Interfaces.
+https://realpython.com/python-interface/
+Later, I engaged in a meeting with my mentor, primarily discussing the ongoing game project. Our conversation extended to cover learning outcomes associated with a senior role in the industry. I made pertinent notes that will undoubtedly contribute to my reflection. 
+### 31.1.2024
+I was taking part in in colins guest lecture and I wrote some notes related to on of the learnign outcome.
