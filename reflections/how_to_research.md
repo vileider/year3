@@ -22,3 +22,22 @@ fps rised up to 333
 i can defientely say that creating flowcharts help with big picutre view on applicatn and
 relations between classes. I could noticed that i have been updating one variable multiple time and that
 one funciton has been called more often than it should be. Thanks to that I was able to imporve efficiently by 60%
+
+I took another task at my project. I had to store save data. I started searching for best python data storing examples.
+# https://www.askpython.com/python/examples/save-data-in-python
+The articlew on askpython says that pickle is a module that can serialize and deserialize Python objects, such as lists, dictionaries, or custom classes.
+It also says that sqlite is a lightweight database that can store and query data using SQL commands.
+The article provides examples of how to use pickle and sqlite to save and load data in Python.
+
+I get into idea of using sqlite for map reading and writing, it would let me store information about current tile
+with mutiple atributes. I had to only check if it is efficient enough, becaue I would liek to avoid delas in data tranasfer.
+
+# https://www.sqlite.org/speed.html
+After reading the numbers I noticed that biggest speed bost has been achioeved when synchorinizaiton has been turned off
+The article says:
+"With synchronization off, SQLite is sometimes much faster, but there is a risk that an operating system crash or an unexpected power failure could damage the database."
+it could be useful only if I would read a data not write it. unless I will find something more about it
+
+I decided to look for something faster and once I woudl store just no relation data I can use nonSQL database.
+# https://charlesleifer.com/blog/completely-un-scientific-benchmarks-of-some-embedded-databases-with-python/
+I looked at the db benchmark and noticed that level db is efficient. I will have to test it on live data.
