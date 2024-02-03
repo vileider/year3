@@ -1,45 +1,44 @@
-Business
-LO3.7.2.2
-User experience design
-Investigate a company’s basic business functions, organisational structure and the roles of its senior leadership team.
-Look for the recommended reading BCS book Professional Issues.  How are large companies structured?  How does that differ to medium, small and startup companies?  How are leadership formed?  How do they change over time?  What are the incentives for leadership teams?  What about diversity in the management teams and teams in general?
-
-What not to do: Give some bland explanation based on what you think you know.  Find academic resources, ask guest speakers, find Harvard Business articles on management structures.
+## Business
+## LO3.7.2.2
+### User experience design
+# Investigate a company’s basic business functions, organisational structure and the roles of its senior leadership team.
 
 
-# my thought on the topic and my experience
-    if i would start reminding myslef my work in companies and how i have seen the organizational structure or what I have notice.
-    I would say that from my experience companies basic funciton is to earn money and the organizational structure have a general manager at the top
-    later the lower level managers that take care of financial aspect, emlployees and supply. at the bottom of that piramide there is a team leader and 
-    the peoiple that he supervise. I will do a reaserach to have deeper undersatnding and wider comparison. 
-## chceck how the company structure works
-from the https://www.forbes.com/advisor/business/organizational-structure/ i lerned that thewre can be multiple different organization structure
-by Christine Organ and Cassie Bottorff:
-The delineation of organizational structures is integral to understanding the varied frameworks employed by businesses. Below, I listed organizational paradigms:
+If I were to start reminiscing about my work in companies and how I've observed organizational structures, I would say that, from my experience, a company's basic function is to earn money, typically led by a general manager at the top. Later, lower-level managers are overseeing financial aspects, employees, and supplies. At the bottom of that pyramid is a team leader and the people they supervise. I will research to gain a deeper understanding and make wider comparisons.
+(Organ, 2023)
+From the article on Forbes by Christine Organ and Cassie Bottorff, I learned that there can be multiple different organizational structures. I decided that a description of organizational structures is essential to understanding it. I listed below various organizational paradigms:
+[3.7.2.2]
+* Functional Structure: This configuration requires the segmentation of the organization into specialized departments, such as marketing, finance, and operations. Primarily suited for smaller enterprises, this model promotes clarity and focus.
+Product-Based Structure: Organizing the company by products or services, including software, hardware, and consulting, characterizes this model. Its efficacy is pronounced in large, diversified enterprises boasting multiple product lines and market segments.
+* Market-Based Structure: Segmenting the organization based on clientele or markets, encompassing consumer, business, and government sectors. This model accommodates businesses catering to diverse customer needs.
+* Geographical Structure: Geographical delineation involves organizing the company by regions or locations, such as North America, Europe, and Asia. This structure is apt for enterprises with a global footprint.
+* Matrix Structure: Integrating multiple structural paradigms, such as functional and product-based, exemplifies the matrix structure. Suited for enterprises necessitating adept management of multifaceted objectives and projects.
+* Network Structure: Dependent on external entities, this structure relies on outsourcing and partnerships with suppliers, contractors, and consultants. It is a strategic choice for businesses aiming to optimize cost efficiency, flexibility, and innovation.
+* Hybrid Structure: Blending elements from diverse structural models, the hybrid structure adapts to the specific needs and characteristics of each organizational unit or department. It proves advantageous for enterprises operating in dynamic and diverse environments, demanding rapid adaptability.
 
-* Functional Structure:
-This configuration entails the segmentation of the organization into specialized departments, such as marketing, finance, and operations. Primarily suited for smaller enterprises, this model promotes clarity and focus.
-* Product-Based Structure:
-Organizing the company by products or services, including software, hardware, and consulting, characterizes this model. Its efficacy is pronounced in large, diversified enterprises boasting multiple product lines and market segments.
-* Market-Based Structure:
-Segmenting the organization based on clientele or markets, encompassing consumer, business, and government sectors. This model accommodates businesses catering to diverse customer needs.
-* Geographical Structure:
-Geographical delineation involves organizing the company by regions or locations, such as North America, Europe, and Asia. This structure is apt for enterprises with a global footprint.
-* Matrix Structure:
-Integrating multiple structural paradigms, such as functional and product-based, exemplifies the matrix structure. Suited for enterprises necessitating adept management of multifaceted objectives and projects.
-* Network Structure:
-Dependent on external entities, this structure relies on outsourcing and partnerships with suppliers, contractors, and consultants. It is a strategic choice for businesses aiming to optimize cost efficiency, flexibility, and innovation.
-* Hybrid Structure:
-Blending elements from diverse structural models, the hybrid structure adapts to the specific needs and characteristics of each organizational unit or department. It proves advantageous for enterprises operating in dynamic and diverse environments, demanding rapid adaptability.
+The organizational frameworks I listed gave me a perspective on the diverse strategies to align structures with operational goals.
 
-These organizational frameworks provide a nuanced perspective on the diverse strategies employed by enterprises to align their structures with operational goals. 
+(15 examples of business functions (with definitions) - indeed 2023)
+To expand my knowledge and learn something new, I visited Indeed and discovered that business functions are the activities that a company performs to create value for its customers, stakeholders, and employees. [3.7.2.2]I learned that business functions can be divided into two categories: core functions and support functions. Core functions are the main activities that generate income and deliver the company’s products or services, such as manufacturing, sales, marketing, etc. Support functions are the activities that help the core functions run smoothly and efficiently, such as accounting, human resources, IT, etc. Different types of businesses may have different types of functions, depending on their goals, size, culture, and industry.
 
-# what are the companies busines functions
-To expand my knowldge and to learn something new: https://www.indeed.com/career-advice/career-development/functions-of-businesses
-Business functions are the activities that a company performs to create value for its customers, stakeholders, and employees. Business functions can be divided into two categories: core functions and support functions. Core functions are the main activities that generate income and deliver the company’s products or services, such as manufacturing, sales, marketing, etc. Support functions are the activities that help the core functions run smoothly and efficiently, such as accounting, human resources, IT, etc. Different types of businesses may have different types of functions, depending on their goals, size, culture, and industry
-# what is the reole of senior leadership
-I asked my mentor Francesco Burato about his thoughts about the role of senior leadership.
-He Explained that structure and success of an organization depend on the effective allocation of human resources. In large organizations, leadership roles vary in proximity to the CEO, with key positions such as COO, CFO, and CTO playing vital roles. The Board of Directors guides the organization, and the CEO sets objectives aligned with officers' responsibilities. Engineering managers and senior engineers allocate resources, considering factors like security, technology, features, and bug fixes. The hierarchy's depth adapts to organizational needs, emphasizing the importance of resource distribution for organizational growth and success. Software engineers play a crucial role in determining how to allocate human resources, with engineering management ensuring contributions align with overall goals. The organization's size and resource allocation significantly influence its structure.
-# whate I have learnedf during my research
+(Todorow, 2024)
+I asked my mentor, Francesco Burato, about his thoughts on the role of senior leadership.[3.7.2.2] He explained that the structure and success of an organization depend on the effective allocation of human resources. In large organizations, leadership roles vary in proximity to the CEO, with key positions such as COO, CFO, and CTO playing vital roles. The Board of Directors guides the organization, and the CEO sets objectives aligned with officers' responsibilities. Engineering managers and senior engineers allocate resources, considering factors like security, technology, features, and bug fixes. The hierarchy's depth adapts to organizational needs, emphasizing the importance of resource distribution for organizational growth and success. Software engineers play a crucial role in determining how to allocate human resources, with engineering management ensuring contributions align with overall goals. The organization's size and resource allocation significantly influence its structure.
 
-# how i would apply this knowledege and my plan for the future
+(Cook, 2023)
+I found an article on the Fellow.app that explains what a senior leadership team is, what skills they need, and what roles and responsibilities they have.[3.7.2.2] The purpose of a senior leadership team is to set the vision, mission, and goals of the organization and to mobilize, guide, and support all employees. The skills that senior leaders need are self-management, communication, creativity, goal-setting, strategic thinking, and problem-solving. Senior leaders are mentors, and guides, uphold culture, make decisions, and plan. The senior leadership team is a group of senior leaders who meet regularly to strategize, lead, and establish policies for the organization.
+(Northwest Education, 2023)
+Another article from Northwest.Education explains a senior [3.7.2.2]leadership role as anyone who is in upper management and has a team that reports to them, as mentioned by my mentor, CEO, president, vice president, general manager, CTO, CFO, or department head. I did more research on that subject and at the top of what I wrote. I have found an article on Azeus Convene, where Gabriella writes more about how senior leaders play a crucial role by identifying, assessing, and mitigating potential risks that can impact the organization's performance and reputation.[3.7.2.2] Additionally, they formulate contingency plans and crisis management strategies to address emergencies effectively. She also writes that senior leaders are responsible for recruiting and onboarding top talent. Senior leaders ensure employees possess the necessary skills and qualifications. In the article, I read that they should promote a culture of learning and innovation while providing opportunities for career advancement. Senior leaders assess employee performance, offer constructive feedback, and guidance, and set realistic goals.
+[3.7.2.2]
+Through my exploration of organizational structures, business functions, and the role of senior leadership, I have learned that companies vary in their approaches to achieving operational goals. The diverse organizational structures, including functional, product-based, and market-based, offer companies flexibility based on their size, industry, and objectives. Understanding core and support functions has revealed how businesses create value for stakeholders.[3.7.2.2] Senior leadership plays a pivotal role in risk management, talent recruitment, and fostering a conducive work culture. Recognizing the importance of effective resource allocation, goal-setting, and feedback, I've gained insights into the dynamic responsibilities of senior leaders. In summary, I've gained a deeper understanding of how organizational pieces and leadership work together.
+
+I would like to use what I have learned about leadership to advance my career. I should keep developing my skills and qualities that align with senior leadership roles and apply them when working in teams at school or after. I think it can be done by setting clear goals and creating a positive workplace. I will keep learning and staying updated on organizational trends to become a valuable contributor. When I think about taking on leadership roles, I should think about how to apply my knowledge and contribute to the organization's, small company, and school team's success and growth. 
+
+Organ, C. (2023) 7 organizational structure types (with examples), Forbes. Available at: https://www.forbes.com/advisor/business/organizational-structure/ (Accessed: 03 February 2024). 
+
+The Indeed editorial team (2023) 15 examples of business functions (with definitions) - indeed, indeed.com. Available at: https://www.indeed.com/career-advice/career-development/functions-of-businesses (Accessed: 03 February 2024). 
+
+Todorow, B. (2024) Mentoring session, Bitbucket. Available at: https://bitbucket.org/vileider/year3/src/main/text_files/Francesc_2024.md (Accessed: 03 February 2024). 
+
+Cook, B. (2023) A complete guide to senior leadership teams, Fellow.app. Available at: https://fellow.app/blog/productivity/the-senior-leadership-team-roles-and-responsibilities/ (Accessed: 03 February 2024). 
+
+Northwest Education (2023) What is a senior leadership role? - northwest executive education, northwest education. Available at: https://northwest.education/insights/executive-leadership/what-is-a-senior-leadership-role/ (Accessed: 03 February 2024). 
