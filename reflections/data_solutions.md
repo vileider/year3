@@ -9,3 +9,17 @@ Note that you need to persuade the marker what you did to DESIGN the algorithm, 
 Try and do something interesting such as image recognition, text analysis or something you would not normally do.  You can start from a tutorial and then try and adjust the technique to a new domain for instance.
 
 DOCUMENT your failures as well as your successes.
+
+# what I have done
+Throughout one semester, I created a graph tool capable of displaying graphical visualizations of gold prices over nearly a century. This has shown me how to analyze large datasets. Today, I am attempting to create an algorithm to manipulate data, and I would like to apply professional techniques to assist me.
+
+# progresss
+
+# what I learned
+
+# implementation
+
+# conclusion
+
+
+# how i will use my knowledge in the future
