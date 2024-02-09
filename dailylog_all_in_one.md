@@ -185,3 +185,12 @@ As a result of this insight, I have decided to suggest refactoring when a ticket
 Here's your text with improved spelling and grammar:
 I completed Learning Outcome 3.7.1.2 and proceeded with the creation of a flowchart. I enhanced the flowchart's readability by incorporating colors.
 Additionally, I initiated a reflection related to the topic of governing software development.
+### 6.2.2024
+I started working on three different reflections. I made notes from two meetings with Neil and finished a flowchart with Gracjan.
+### 7.2.2024
+I had a code review session with Gracjan and attended a guest lecture with Vishnu. I also had a design session with Gracjan and looked for design patterns in real life.
+https://www.youtube.com/watch?v=-kzXfO6LSxE
+### 8.2.2024
+I made some notes related to learning outcomes and conducted research on design patterns. I met up with Gracjan, and we planned the next steps for our project on a mural board. I attended a lecture about researching and took notes.
+### 9.02.2024
+I created two note journals for reflection. I met with Gracjan for 2 hours, trying to design our project with selected design patterns: singleton, prototype, observer, mediator, and strategy. Later, I used a lecture with Neil to enhance my reflection related to research and made my first attempt to finish it.
