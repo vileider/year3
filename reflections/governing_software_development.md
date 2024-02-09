@@ -7,18 +7,30 @@ Investigating governing a software project, this could be an open source or a pr
 
 the subject sounds enigmatic, more than anything i dealt with.
 I wil try to 
-# what is governing software and development
 
-# what processes make governing software 
 
-# Role of Governance in Software Development
+# what controll in contex for software proceses
+## http bitcuket...year3/notes/costcontroll
 
-# how does cost controll looks like for governing software development
-
-# technical aspects, such as the tools, technologies, and methodologies used in the software development process.
+# technical aspects, such as the tools, technologies, and methodologies used in the software development process.(more on adheritance of technical strategy)
 
 # processes' impact on the quality of the software being developed. Are there quality control measures in place? Are software defects being minimized?
 
 # How to identify and manage intellectual property rights, which may include patents, copyrights, or other legal rights related to the software being developed.
 
-# concept of continuous improvement in governing software development, where processes are regularly reviewed and enhanced to optimize outcomes.
+# concept of continuous improvement where processes are regularly reviewed and enhanced to optimize outcomes.
+
+
+
+###
+in develoment process
+"how many times we have to run that funciton"
+
+###
+-notes related to cost constrol
+-practical work related to my  research
+-practial work related to IPR
+-the beginning of the reflection would be a reveiw what i learn
+"before i did not know anything about this....now i understand ...this etc."
+-bullet pint in notes docuement
+-subbmit work
