@@ -57,3 +57,15 @@ I got the idea of using SQLite for map reading and writing, which would let me s
 I decided to look for something faster, and since I would store just non-relational data, I can use a nonSQL database. I looked at the DB benchmark and noticed that LevelDB is efficient. I will have to test it on live data once I get to the point in my project where that will be a priority. Right now, I gained this knowledge from pure curiosity.
 
 From Neil's lecture, I learned about the importance of documenting the research topic and findings in a markdown file. He suggests rephrasing and enriching search terms if needed and stresses checking the publication date of sources. During the lecture, I confirmed that aiming to validate findings with at least three reliable sources and breaking down complex problems into manageable parts is a good approach. He advised utilizing a mix of digital and academic resources for comprehensive understanding, highlighting the skill of efficiently skimming information to identify relevant data.
+
+After reading the LO title couple more times I discovered that I should focus more on business  related topic not on searching in general. I can treat the journey abov as evidence of my searching skills and lerning process.
+
+Inspired by the Neil during one of the lectures, I decided to research on how AI is changing modern software developing.
+At google schoolars I have found an article to this topic.
+"Impact of Generative AI on the Software Development Lifecycle" investigates the impact of Generative AI on the Software Development Life Cycle (SDLC), proposing a new model, the Generative AI-Assisted Software Development Life cycle (GAASD Lifecycle)
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4536700
+
+It discusses the integration of Agile methodologies with generative AI technologies like ChatGPT to enhance efficiency. Through interviews with 30 tech professionals, the research explores generative AI's influence on each SDLC phase. Article highlight the potential for generative AI to speed up software deployment and improve reliability. Generative AI can analyze historical data from previous projects to identify patterns and generate accurate estimates for future tasks and sprints. It can also suggest define project scope, and help in creating user stories by using Natural Language Processing. The ability to select appropriate architecture patterns and generating system designs from scratch based on tech leaders definitions. It can evaluate existing designs for weaknesses, suggest alternative approaches. Iwhich could imporve my
+
+The study also notes limitations such as hallucination, incoherence, possible inaccuracy and lack of originality, underscoring the need for human oversight. 
+
