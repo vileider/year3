@@ -7,7 +7,7 @@ This is similar to LO3.7.1.5, but look at the VERBS.  This is to EVALUATE and AP
 
 
 #
-I chose Kanban for my main project because it offers a level of freedom and flexibility that aligns well with my team's dynamic and work ethic. This methodology allows us to focus on pushing the project forward without being constrained by the rigid timelines of sprints. Our team operates efficiently under a system where tasks can be completed and new ones can be planned in real-time, fostering an environment of continuous progress and adaptation. The visual nature of Kanban, with tasks moving from "To Do" to "Done," not only aids in keeping the team motivated but also provides a clear picture of the project's advancement.
+I chose Kanban for my main project because it offers a level of freedom and flexibility. This methodology allows us to focus on pushing the project forward without being constrained by the rigid timelines of sprints. Our team operates efficiently under a system where tasks can be completed and new ones can be planned in real-time, fostering an environment of continuous progress and adaptation. The visual nature of Kanban, with tasks moving from "To Do" to "Done," not only aids in keeping the team motivated but also provides a clear picture of the project's advancement.
 
 In contrast, my experience with sprints in an academic setting highlighted the benefits of structured deadlines and accountability. Regular daily stand-ups and the commitment to deliverables within sprints forced a level of discipline and progress tracking that is sometimes missed in a more flexible approach like Kanban. This structure ensures that each team member is accountable and contributes to the project consistently.
 
