@@ -194,3 +194,8 @@ https://www.youtube.com/watch?v=-kzXfO6LSxE
 I made some notes related to learning outcomes and conducted research on design patterns. I met up with Gracjan, and we planned the next steps for our project on a mural board. I attended a lecture about researching and took notes.
 ### 9.02.2024
 I created two note journals for reflection. I met with Gracjan for 2 hours, trying to design our project with selected design patterns: singleton, prototype, observer, mediator, and strategy. Later, I used a lecture with Neil to enhance my reflection related to research and made my first attempt to finish it.
+### 12.02.2024
+I created notes related to abstract classes, interfaces, and protocols. I learned more about the strategy design pattern, and during the meeting, I discussed the implementation of this pattern into the project. I managed to discuss and create a pseudo UML diagram with Gracjan.
+### 13.02.2024
+From the morning, I was working on LO3.7.2.3 and looked at it from another angle. I searched the internet, Google Scholar, and the UHI library for useful articles and books. I attended a lecture with Neil about OOP, and it helped consolidate my knowledge on that topic. I had a mentoring session, and on top of free industry discussions, I asked him about one of the learning outcomes and for some guidance related to design patterns in my project. He also explained to me in simple words what a factory pattern is. After mentoring, I had a long pair programming session where we were defining abstraction layers.
+
