@@ -32,11 +32,11 @@ Inspired by the post on Slack, I decided to research how AI is changing modern s
 On Google Scholar, I found an article titled "Impact of Generative AI on the Software Development Lifecycle," which investigates the integration of Agile methodologies with generative AI technologies, like ChatGPT, to enhance efficiency. It reports on interviews with 30 tech professionals exploring generative AI's influence on each SDLC phase, highlighting its potential to speed up software deployment and improve reliability. The article discusses how generative AI can analyze historical data to identify patterns, generate accurate estimates for future tasks, define project scopes, and assist in creating user stories using Natural Language Processing. It also notes limitations such as hallucination, incoherence, and possible inaccuracy, underscoring the need for human oversight.
 (Todorow, 2024e)
 I uploaded my project flowchart to GPT, and the response I received confirmed a clear object-oriented approach to software design.
-(Todorow, 2024)
+(Todorow, 2024f)
 GPT noted a well-thought-out architecture with a separation of concerns and effective use of design patterns. Additionally, GPT created user stories that I can use during the planning session.
 
 I asked Mark Sutherland about the usage of AI to improve the Software Development Life Cycle 
-(Todorow, 2024)
+(Todorow, 2024g)
 Mark noticed that AI is transforming businesses by automating simple tasks, making organizations more efficient, and creating a demand for people who can analyze AI data and communicate insights to decision-makers. He emphasized the importance of monitoring AI's work as its applications continue to expand daily.
 
 This experience confirms that using AI can increase the speed of project flow. However, I am aware of the potential for mistakes, so I still need to be careful and monitor AI output.
