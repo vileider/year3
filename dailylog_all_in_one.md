@@ -205,3 +205,9 @@ I was creating abstract layers for a Python project during pair programming.
 In the morning, I met up with Mark Sutherland and made lots of notes related to learning outcomes.
 I had another session of refactoring and abstract layer creation. I attended an employability session with Ian Eisner,
 and due to the limited time of the guest lecture, I had to arrange a meeting for Monday.
+### 16.02.2024
+"I finished another notes file related to the Learning Outcome. I had another session of refactoring and abstract layer creation in the Python project. After implementing more and more abstract layers in the Python project, we noticed mistakes. When these were fixed, we improved efficiency tenfold.
+### 19.02.2024
+I met up with Ian Eisner, and he gave me some insights on a LO-related topic.
+I finished another notes file related to the Learning Outcome.
+
