@@ -210,4 +210,8 @@ and due to the limited time of the guest lecture, I had to arrange a meeting for
 ### 19.02.2024
 I met up with Ian Eisner, and he gave me some insights on a LO-related topic.
 I finished another notes file related to the Learning Outcome.
+### 20.02.2024
+Fixed errors in one class of the Pygame project. I added another note related to governing software development.
+## 21.02.2024
+I had a project code organizing session. I completed notes related to governing software development.
 
