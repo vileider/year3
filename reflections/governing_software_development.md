@@ -15,10 +15,10 @@ Based on my notes, in agile software development, it is really important to focu
 (Todorow, 2024c)
 At the point where I made clear what the technical aspects of process are, I started learning how the process impacts on quality of the software being developed
 The article summary I have composed together highlights the importance of software development processes and quality metrics in improving software products. By adopting organized approaches such as Waterfall, Agile, and Scrum, development teams can implement consistent quality control actions across all stages of the software development lifecycle (SDLC). This helps in spotting and decreasing software defects early on. Agile and Scrum, for example, focus on iterative development and frequent testing, enabling ongoing feedback and quick fixes of defects, which improves software quality. I have learned that quality metrics, such as code coverage and complexity metrics, are crucial for evaluating the success of these processes in maintaining high code quality and maintainability. Quality control (QC) and software quality management processes, including defect analysis and prevention techniques, are important for identifying quality issues early and taking steps to address them. This comprehensive approach to integrating quality control measures throughout the development process, along with emphasizing developer training and detailed documentation, ensures the creation of high-quality software products with fewer defects.
-# How to identify and manage intellectual property rights, which may include patents, copyrights, or other legal rights related to the software being developed.
+(Todorow, 2024d)
 In this paragraph decided to summarize my notes on identifying and managing intellectual property rights.
 My notes provide a comprehensive overview of intellectual property rights in software, highlighting four main types: patents, trademarks, designs, and copyrights. They emphasize the importance of identifying and protecting IP assets, suggesting tools like the IP Health Check and legal assistance to understand and manage IP rights effectively. Protecting IP can offer numerous benefits, including exclusive rights, competitive advantage, income opportunities, and strategic insights. Methods for protecting IP include patents, trademarks, designs, copyrights, clear contracts, confidentiality agreements, and registration for better legal protection. Overall, the notes stress the proactive management of IP to enhance business value and competitiveness.
-# concept of continuous improvement where processes are regularly reviewed and enhanced to optimize outcomes.
+(Todorow, 2024)
 My experience aligns well with the concepts of continuous improvement outlined in the notes:
 By identifying areas for improvement: I recognized the need to refactor the code multiple times due to increasing complexity, which aligns with the continuous improvement principle of identifying areas for enhancement.
 Involving stakeholders and seeking external feedback: I organized sessions with guests to gather perspectives from outside the team, similar to how the articles emphasize the importance of collaboration and feedback exchange.
@@ -34,3 +34,7 @@ Todorow, B. (2024a) software process control notes, Bitbucket. Available at: htt
 Todorow, B. (2024b) tools for development process, Bitbucket. Available at: https://bitbucket.org/vileider/year3/src/main/notes_for_reflections/tools_for_development_process.md (Accessed: 22 February 2024). 
 
 Todorow, B. (2024c) software quality processes notes, Bitbucket. Available at: https://bitbucket.org/vileider/year3/src/main/notes_for_reflections/software_quality_processes.md (Accessed: 22 February 2024). 
+
+Todorow, B. (2024d) ipr identification notes, Bitbucket. Available at: https://bitbucket.org/vileider/year3/src/main/notes_for_reflections/ipr_identification.md (Accessed: 22 February 2024). 
+
+Todorow, B. (2024) continuous improvement process notes, Bitbucket. Available at: https://bitbucket.org/vileider/year3/src/main/notes_for_reflections/continuous_improvement_process.md (Accessed: 22 February 2024). 
