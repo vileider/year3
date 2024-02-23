@@ -1,0 +1,4 @@
+During this week, I arranged a meeting with Ian Eisner. He provided me with useful information related to two learning outcomes and also gave me some guidance to improve my employability.
+In general, every day had the same structure: I was continuing refactoring with Gracjan for a couple of hours, and I was writing notes for reflection on outcome 3.8.1.4. I think I expanded my notes for this outcome too much, but I wanted to delve deep into the subject.
+I accepted an invitation to help the HR department meet with the prospective candidates for the role of Vice Chancellor at UHI. I also registered for an IT webinar that will happen on the 5th of March, which will be combined with a job market.
+Today, I will finish references for the reflection related to 3.8.1.4 outcome and will send it to the feedback board. Later, I will continue the refactoring session, and I believe we will be able to start working on tickets independently again.
