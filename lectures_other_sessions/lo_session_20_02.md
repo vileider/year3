@@ -1,5 +1,5 @@
 questions for session
-
+#moved to 28.02.2024
 
 What is the difference between 
 Agile
@@ -11,18 +11,20 @@ Technical
 LO3.7.1.5
 Industrial software design
 Compare and contrast software design and development methodologies (e.g., structured or object-oriented), and be able to apply appropriate industry standard design notation such as UML and agile user story management.
-
+# How well that outcome aligns with my notes
+# I should write "In this project, I applied"
 
 
 Employability
 LO3.9.2.3
 Data led decision making
 Evaluate the motivations of internal and external stakeholders with respect to competing interests and objectives.
-# &
+# Why are stakeholders competing?
 Business
 LO3.8.1.2
 Software release management
 Explain what is meant by managing up and across the organisation, assessing people considerations.
+# How is it appropriate to manage up, and how would I manage it?
 
 
 Technical
@@ -43,3 +45,6 @@ Employability
 LO3.9.1.3
 Insight from data
 Demonstrate competence in gathering and evaluating information from people using a variety of techniques including interviewing.
+# If the people in an organization are spread out, it is hard to make interviewing.
+# What are other techniques to gather information?
+# "Requirements planning space"
