@@ -6,7 +6,6 @@ Questions for mentorign session with Frank
 2. processes for governing software development -
 the potential consequences when these governance aspects are not implemented effectively. 
 
-
 3. How do You think I can keep an item in one place. Is dynamic instanciate is a solution
     how to keep the actions occured on item(like half drinked bottle of milk)
     placed on the shelf or in character/NPC inventory?
