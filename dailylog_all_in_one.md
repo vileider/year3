@@ -218,15 +218,13 @@ I had a project code organizing session. I completed notes related to governing 
 I had another session in organizing code and refactoring, including bug fixes. I almost finished a reflection related to governing software development.
 ### 23.02.2024
 I had another session in organizing code, refactoring, and bug fixes. I finished the reflection and have sent it to the feedback board, and started another one related to gathering information from people.
-
 ### 26.02.2024
-at python game project We finished organizing code and finanly could start workingoin the tickets, i took a ticket related to creation of data class, abstract class and met aclase for mp calculation
-I wrote half of the relfection about information gathering and evaluationg
+In the Python game project, we finished organizing the code and finally could start working on the tickets. I took a ticket related to the creation of a data class, an abstract class, and a meta class for ground tiles calculation. I wrote half of the reflection about information gathering and evaluation.
 ### 27.02.2024
-I focused on finishing refactor at python game project. We managed to finish it and also we created a channel for design and architecture ideas. it will speed up the planning in the future.
+I focused on finishing the refactor of the Python game project. We managed to complete it, and we also created a channel for design and architecture ideas. This will speed up planning in the future.
 ### 28.02.2024
-I add couple paragraps to reflecton based on gathering informaiton form people, I also had a mentoring session with frank. He helpend me solving the issue relateed to class instace passing.
-I also took a part in learning outcome session wher i confirmed my ideas on reflection writing and I get some more suggestions.
+I added a couple of paragraphs to the reflection based on gathering information from people. I also had a mentoring session with Frank. He helped me solve the issue related to class instance passing. Additionally, I took part in a learning outcome session where I confirmed my ideas on reflection writing and received some more suggestions.
 ### 29.02.2024
-I took apart in the uhi hr multiples session that was focusing on evaluaiting candidates for vice canclelor
-I also have found more evidence for the relfleciton i am curently working on
+I took part in the UHI HR multiple sessions that were focusing on evaluating candidates for Vice Chancellor. I also found more evidence for the reflection I am currently working on.
+### 01.03.2024
+I finished the reflection on evidence gathering from people.
