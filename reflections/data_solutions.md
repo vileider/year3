@@ -22,7 +22,10 @@ Once I managed to apply this algorithm, I wanted to create a bigger map and disp
 * Turned the sliced array into a list and added coordinates on the screen starting from the first tile on the list
 
 ### how I designed this
+# https://bitbucket.org/vileider/year3/src/main/images/mural_tile_desing1.png
 To design that solution, the Python game team had multiple design sessions where we discussed possible solutions. The first idea was to create big chunks of the map, but it was abandoned due to poor performance.
+# https://bitbucket.org/vileider/year3/src/main/images/planning_2.png
+# https://bitbucket.org/vileider/year3/src/main/images/proof_of_concep_tiles.png
 After I proposed a solution during a planning meeting that would include multiple small tiles that the player would work on, we agreed to give me a chance to prepare a proof of concept in a couple of days. I created an example algorithm that was reading a simplified CSV file. It met with positive feedback, so we moved forward with this idea. We redesigned the code and started adding data manipulation solutions aligned with the algorithms for moving the player on the tile grid.
 ### How I adjusted the algorithm to make smooth movement
 After implementing player movement and updating the new player position in the sliced array function, I needed to devise an algorithm to ensure smooth movement. I calculated the relative position from the center of the tile on which the player stood. When the new sliced array was displayed, the player's position was adjusted accordingly, resulting in a smoother player movement experience. However, the code complexity reached a point where refactoring was necessary.
