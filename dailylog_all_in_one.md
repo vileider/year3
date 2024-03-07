@@ -228,3 +228,12 @@ I added a couple of paragraphs to the reflection based on gathering information 
 I took part in the UHI HR multiple sessions that were focusing on evaluating candidates for Vice Chancellor. I also found more evidence for the reflection I am currently working on.
 ### 01.03.2024
 I finished the reflection on evidence gathering from people.
+### 04.03.2024
+I managed to finish a ticket about resetting the game, which was followed by a PR acceptance. I have also begun reflecting on algorithms for manipulating data.
+### 05.03.2024
+My game team managed to solve the issue related to my team member's PR, thanks to pair programming. The problem is resolved.
+We decided to limit frames per second to ensure consistent results when testing bugs.
+I progressed further with the reflection I was currently working on.
+### 06.03.2024
+I added more notes to my reflection. Additionally, I attended a guest lecture where I gathered useful information about user interface.
+I also engaged in a lengthy discussion with my teammate regarding delta time limitations when combining with the Pygame library.
