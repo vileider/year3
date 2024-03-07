@@ -1,0 +1,6 @@
+05.03.2024
+In our Python game project, we faced challenges in achieving smooth player movement that maintained consistent speed in all directions: diagonally, horizontally, and vertically. One proposed solution was to cap the delta time to the maximum frames per second (fps), but this could also slow down the overall processing speed.
+### https://www.youtube.com/watch?v=KvSjJ-kdGio&t=275s
+We explored various solutions: starting from scratch, modifying player functionality, and altering how player movement is calculated on the screen. Early in the project, we had set up a channel for sharing useful links. This reminded me that we might find a solution there. Indeed, by following a tutorial from the channel, we were able to make minor adjustments to the code without significant overhauls.
+
+During a pair programming session, with me as the pilot and Gracjan as the driver, we successfully resolved the issue. Now, the player moves smoothly in all directions, regardless of the computer's speed.
