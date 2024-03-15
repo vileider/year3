@@ -231,9 +231,17 @@ I finished the reflection on evidence gathering from people.
 ### 04.03.2024
 I managed to finish a ticket about resetting the game, which was followed by a PR acceptance. I have also begun reflecting on algorithms for manipulating data.
 ### 05.03.2024
-My game team managed to solve the issue related to my team member's PR, thanks to pair programming. The problem is resolved.
-We decided to limit frames per second to ensure consistent results when testing bugs.
-I progressed further with the reflection I was currently working on.
+My game team managed to solve the issue related to my team member's PR, thanks to pair programming. The problem is resolved. We decided to limit frames per second to ensure consistent results when testing bugs. I progressed further with the reflection I was currently working on.
 ### 06.03.2024
-I added more notes to my reflection. Additionally, I attended a guest lecture where I gathered useful information about user interface.
-I also engaged in a lengthy discussion with my teammate regarding delta time limitations when combining with the Pygame library.
+I added more notes to my reflection. Additionally, I attended a guest lecture where I gathered useful information about user interface. I also engaged in a lengthy discussion with my teammate regarding delta time limitations when combining with the Pygame library.
+### 07.03.2024
+I finished the reflection about data algorithms. I started a ticket about saving python game progress.
+### 11.03.2024
+I continued work on the reflection managing across organizations. I had a design session where my team was thinking about creating an observer pattern that would be using dynamic inheritance.
+### 12.03.2024
+I added more thoughts to the reflection I am currently working on. I finished my ticket related to load and save game. I participated in a planning session, and we wrote a retrospective and goals for the next couple of weeks and planned tasks for this week. I had a mentoring session.
+### 13.03.2024
+I had a code review session with Charles. I attended a learning outcome session. I added more notes to the reflection that I am currently working on.
+### 14.03.2024
+I had a design session with Gracia, and he was helping me to create an observer design pattern for my ticket. I attended an Inverness candidate president meeting. I created a script that would allow me to create a presentation about the tools I use in a project.
+I added more thoughts to the reflection I am currently working on.
