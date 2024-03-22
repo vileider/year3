@@ -245,3 +245,15 @@ I had a code review session with Charles. I attended a learning outcome session.
 ### 14.03.2024
 I had a design session with Gracia, and he was helping me to create an observer design pattern for my ticket. I attended an Inverness candidate president meeting. I created a script that would allow me to create a presentation about the tools I use in a project.
 I added more thoughts to the reflection I am currently working on.
+### 15.03.2024
+I attended the weekly standup. I finished the reflection about managing across organizations. I was learning about the observer pattern.
+### 18.03.2024
+I finished the UML modeling course and got a badge. I started a reflection about evaluating diagrams. I created a presentation for the all-hands sprint review. I attended the all-hands sprint review.
+### 19.03.2024
+I was learning UML and I started modeling on Mural. I had a 1:1 session with Karen and Neil.
+### 20.03.2024
+I attended a guest lecture with Rafe about DevOps architecture and made useful notes. I was learning UML. I continued my notes about UML class relationships.
+### 21.03.2024
+I attended a police event where I was introduced to job opportunities. I learned UML and created a UML diagram on Mural. I continued my reflection about comparing UML methodologies. I updated the UML design on Mural.
+### 22.03.2024
+I was creating a UML diagram on Mural from the start.
