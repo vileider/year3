@@ -84,6 +84,7 @@ Object Diagram
 
 # (BOOCH, 2017)
 
+# https://www.uml-diagrams.org/composition.html
 Relationships:
 
 1. Inheritance:(empty arrow), example[car share vehicle feature with taxi or bus]
